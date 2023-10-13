@@ -23,3 +23,9 @@ Born to a prominent family, Eldrina/Eldrin was the misfit, known for their conne
 _Hill Dwarf Fighter_
 
 Brolin, of the esteemed Stonefist clan from Stonepeak, once championed a mining venture seeking a rare gem, leading to a tragic tunnel collapse and significant loss. Wracked with guilt, Brolin turned to the clan's monastic tradition, taking the Oath of the Isolated Path. However, years of solitude deepened their internal struggles, casting dual shadows over their legacy.
+
+- - -
+
+# Lyra/Lyron Songhoof
+_Satyr Bard_
+Lyra/Lyron Songhoof, born in the radiant meadows of the Feywild, embodies pure joy and merriment. Driven by wanderlust and a desire to spread their infectious cheer, they ventured into the Material Plane. Their presence transformed mundane towns into hubs of laughter, song, and dance. As they journeyed, their reputation as a beacon of happiness grew, turning darkened hearts luminous and replacing despair with hope. With a lute and an ever-present song, Lyra/Lyron continues to share the Feywild's wonder, kindling joy in all they meet.
